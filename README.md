@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vanechavezr
-- 👀 I’m interested in diseño y programación web. Trabajar con bases de datos. Desarrollo de vídeojuegos. Programación en Java, JS, PHP, C++, C# y Python, diseño en HTML Y CSS.
+- 👀 Estoy interesada en el diseño y programación web frontend y backend. Trabajar con bases de datos. Desarrollo de vídeojuegos. Programación en Java, JS, PHP, C++, C# y Python, diseño con HTML Y CSS.
 - 🌱 I’m currently learning C# y manejo de bases de datos.
 - 💞️ I’m looking to collaborate on diferentes proyectos.
 - 📫 How to reach me vanessacr1402@gmail.com
